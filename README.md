@@ -1,4 +1,4 @@
-### IrrNa Linux
+# IrrNa Linux
 A system based on Rolling Arch Linux with Linux Mint Cinnamon desktop enviroment.
 It has pacman as its default package manager, but you can install Flatpak if you want it.
 
