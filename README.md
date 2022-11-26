@@ -4,8 +4,11 @@ It has pacman as its default package manager, but you can install Flatpak if you
 
 ## Credits
 Vanilla OS team, mirkobrombin - Installer and first setup scripts
+
 anon - good IrrNa Linux art
+
 Arch Linux team - obviously the base of our distro
+
 Linux Mint team - shipping great themes and icons, and Cinnamon
 
 ## Licenses
