@@ -12,7 +12,7 @@ Arch Linux team - obviously the base of our distro
 Linux Mint team - shipping great themes and icons, and Cinnamon
 
 ## Licenses
-Creative Commons BY-SA - https://creativecommons.org/licenses/by-sa/2.0/ (irrna-art)
+Creative Commons BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/ (irrna-art)
 
 GNU GPLv3 - https://www.gnu.org/licenses/gpl-3.0.html (base system, Cinnamon, installer and first setup script)
 
