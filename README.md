@@ -13,6 +13,7 @@ Linux Mint team - shipping great themes and icons, and Cinnamon
 
 ## Licenses
 Creative Commons BY-SA - prohibited to share IrrNa-art in ANY other place (you can use it)
+
 GNU GPLv3 - base system, Cinnamon, installer and first setup script
 
 ### Thanks for using IrrNa Linux!
