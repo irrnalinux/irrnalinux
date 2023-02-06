@@ -1,10 +1,7 @@
 # IrrNa Linux
-A system based on Rolling Arch Linux with Linux Mint Cinnamon desktop enviroment.
-It has pacman as its default package manager, but you can install Flatpak if you want it.
+A system based on Ubuntu with Linux Mint Cinnamon desktop enviroment.
 
 ## Credits
-Vanilla OS team, mirkobrombin - Installer and first setup scripts
-
 Canonical - Ubuntu base
 
 Linux Mint team - shipping great themes and icons, and Cinnamon
